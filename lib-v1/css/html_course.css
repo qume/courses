@@ -1,14 +1,10 @@
-@media(min-width:1024px) {
+@media(min-width:795px) {
  body {
   font-size: 20pt;   
 }
 
 h1 {
     font-size: 60pt;
-}
-
-.small h1 {
-    font-size: 250pt;
 }
 
 .btn {
